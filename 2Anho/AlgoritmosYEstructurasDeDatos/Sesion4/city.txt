@@ -1,0 +1,45 @@
+Harrenhal-The Riverlands
+Casterly Rock-The Westernlands
+Lannisport-The Westernlands
+Winterfell-The North
+Cerwyn-The North
+Bear Island-The North
+Deepwood Motte-The North
+Riverrun-The Riverlands
+Moat Cailin-The North
+Highgarden-The Reach
+Old Town-The Reach
+White Harbor-The North
+Dreadfort-The North
+Seagard-The Riverlands
+Iron Islands-Iron Islands
+King's Landing-The Crownlands
+Storm's End-The Stormlands
+Dragon Stone-The Crownlands
+Castle Black-The North
+The Arbor-The Reach
++
+Harrenhal-Winterfell-1870-land
+Harrenhal-Riverrun-410-land
+Casterly Rock-Lannisport-64-land
+Casterly Rock-Riverrun-680-land
+Casterly Rock-King's Landing-1340-land
+Lannisport-Iron Islands-1050-sea
+Winterfell-Cerwyn-160-land
+Winterfell-Deepwood Motte-560-land
+Winterfell-Riverrun-2290-land
+Winterfell-White Harbor-550-land
+Winterfell-Dreadfort-560-land
+Winterfell-King's Landing-2300-land
+Winterfell-Castle Black-1050-land
+Cerwyn-Moat Cailin-420-land
+Bear Island-Deepwood Motte-225-sea
+Bear Island-Iron Islands-2415-sea
+Riverrun-Seagard-400-land
+Riverrun-King's Landing-1300-land
+Riverrun-Dragon Stone-960-land
+Highgarden-Old Town-530-land
+Highgarden-King's Landing-1220-land
+Old Town-The Arbor-480-sea
+Seagard-Iron Islands-500-sea
+King's Landing-Storm's End-630-land

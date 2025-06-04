@@ -1,0 +1,139 @@
+Lem Lemoncloak|?|0|-|-|Brother Ray|
+Lancel Lannister|Lannister|0|Kevan Lannister|Willem Lannister,Martyn Lannister|-|
+Ilyn Payne|?|0|-|-|Eddard Stark|
+Edmure Tully|Tully|0|-|Lysa Arryn,Catelyn Stark|-|
+Benjen Stark|Stark|0|Rickard Stark|Eddard Stark,Lyanna Stark,Brandon Stark|-|
+Alys Karstark|?|0|Harald Karstark|-|-|
+Aegon Targaryen|Targaryen|1|Rhaegar Targaryen,Elia Martell|Jon Snow,Rhaenys Targaryen|-|
+Aeron Greyjoy|Greyjoy|0|-|Euron Greyjoy,Balon Greyjoy|-|
+Aerys II Targaryen|Targaryen|1|-|Rhaella Targaryen|Rickard Stark,Brandon Stark|
+Alliser Thorne|?|0|-|-|Jon Snow|
+Alton Lannister|Lannister|0|-|-|-|
+Balon Greyjoy|Greyjoy|0|-|Aeron Greyjoy,Euron Greyjoy|-|
+Arya Stark|Stark|0|Catelyn Stark,Eddard Stark|Rickon Stark,Bran Stark,Sansa Stark,Robb Stark|Viserion,White Walker,The Night King,Petyr Baelish,Walder Frey,Lothar Frey,Black Walder Rivers,The Waif,Meryn Trant,Ghita,Rorge,Polliver,Frey Soldier #1,Red Keep Stableboy|
+Amory Lorch|?|0|-|-|Yoren|
+Baby Sam|?|0|Gilly,Samwell Tarly|-|-|
+Baratheon Guard|Baratheon|0|-|-|-|
+Doran Martell|Martell|0|-|Oberyn Martell,Elia Martell|-|
+Black Walder Rivers|Frey|0|Walder Frey|-|Catelyn Stark|
+Daenerys Targaryen|Targaryen|1|Rhaella Targaryen,Aerys II Targaryen|Viserys Targaryen,Rhaegar Targaryen|Lord Varys,Eleanor's Daughter,Eleanor,Dickon Tarly,Randyll Tarly,Dothraki Bloodrider #2,Dothraki Bloodrider #1,Khal Moro,Khal Forzho,Khal Qorro,Khal Brozho,Khal Rhalko,Xaro Xhoan Daxos,Doreah,Mirri Maz Duur,Khal Drogo|
+Bran Stark|Stark|1|Catelyn Stark,Eddard Stark|Rickon Stark,Arya Stark,Sansa Stark,Robb Stark|-|
+Bowen Marsh|?|0|-|-|Jon Snow|
+Brynden Tully|Tully|0|-|Hoster Tully|-|
+Brienne of Tarth|?|0|-|-|Bolton Officer,Stannis Baratheon,Soldier Tom|
+Brandon Stark|Stark|0|Rickard Stark|Eddard Stark,Benjen Stark,Lyanna Stark|-|
+Bronn|?|0|-|-|Lead Dornish Guard,Matthos Seaworth,Vardis Egen|
+Cersei Lannister|Lannister|1|Tywin Lannister|Tyrion Lannister,Jaime Lannister|Tyene Sand,Kevan Lannister,Margaery Tyrell,Mace Tyrell,Loras Tyrell,High Sparrow,Lancel Lannister|
+Catelyn Stark|Stark|0|Hoster Tully|Edmure Tully,Lysa Arryn|Joyeuse Erenford|
+Daario Naharis|?|0|-|-|Akho,Iggo,Mossador,Oznak zo Pahl,Prendahl na Ghezn,Mero|
+Dickon Tarly|?|0|Melessa Tarly,Randyll Tarly|Talla Tarly,Samwell Tarly|-|
+Eddard Stark|Stark|0|Rickard Stark|Lyanna Stark,Benjen Stark,Brandon Stark|Gerold Hightower,Lady,Will,Arthur Dayne|
+Drogon|Targaryen|0|-|Viserion,Rhaegal|Zalla,Kraznys mo Nakloz,Pyat Pree|
+Doreah|?|0|-|-|Irri|
+Grey Worm|?|0|-|-|Harry Strickland,Razdal mo Eraz,Belicho Paenymion|
+Gregor Clegane|?|0|-|-|Qyburn,Missandei,Faith Militant,King's Landing Boaster,Oberyn Martell,Hugh of the Vale,Aegon Targaryen,Rhaenys Targaryen,Elia Martell|
+Gilly|?|0|Craster|-|-|
+Ghost|Stark|0|-|Shaggydog,Summer,Nymeria,Lady,Grey Wind|Rast|
+Gendry|Baratheon|0|Robert Baratheon|-|Laurence Spellman,Kevin Eldon|
+Ellaria Sand|Martell|0|-|-|Doran Martell,Myrcella Baratheon|
+Elia Martell|Martell|1|-|Oberyn Martell,Doran Martell|-|
+Euron Greyjoy|Greyjoy|0|-|Aeron Greyjoy,Balon Greyjoy|Rhaegal,Nymeria Sand,Obara Sand,Balon Greyjoy|
+Grey Wind|Stark|0|-|Ghost,Shaggydog,Summer,Nymeria,Lady|Rennick|
+Grenn|?|0|-|-|Mag the Mighty|
+Howland Reed|?|0|-|-|Arthur Dayne|
+Hoster Tully|Tully|0|-|-|-|
+Harald Karstark|?|0|Rickard Karstark|-|-|
+Hodor|?|0|-|-|Locke|
+Jorah Mormont|Mormont|0|Jeor Mormont|-|Meereenese Champion,Norvoshi Pit Fighter,Qotho|
+Jaqen H'ghar|?|0|-|-|Despondent Man,Amory Lorch,The Tickler|
+Janos Slynt|?|0|-|-|Barra|
+Jaime Lannister|Lannister|0|Tywin Lannister|Tyrion Lannister,Cersei Lannister|Euron Greyjoy,Olenna Tyrell,Torrhen Karstark,Alton Lannister,Jory Cassel,Aerys II Targaryen|
+Jojen Reed|?|0|Howland Reed|Meera Reed|-|
+Joffrey Baratheon|Baratheon|1|Jaime Lannister,Cersei Lannister,Robert Baratheon|Tommen Baratheon,Myrcella Baratheon|Ros|
+Jeor Mormont|Mormont|0|-|-|-|
+Jon Snow|Stark|1|Lyanna Stark,Rhaegar Targaryen|-|Daenerys Targaryen,Lyanna Stark,Olly,Bowen Marsh,Othell Yarwyck,Alliser Thorne,White Walker,Janos Slynt,Mance Rayder,Styr,Karl Tanner,Orell,Qhorin Halfhand,Othor|
+Khal Drogo|?|0|-|-|Mago,Viserys Targaryen|
+Kevan Lannister|Lannister|0|-|Tywin Lannister|-|
+Karl Tanner|?|0|-|-|Craster|
+Kitty Frey|Frey|0|-|-|-|
+Lady|Stark|0|-|Ghost,Shaggydog,Summer,Nymeria,Grey Wind|-|
+Matthos Seaworth|?|0|Davos Seaworth|-|-|
+Maester Cressen|?|0|-|-|Maester Cressen|
+Maester Aemon|Targaryen|0|-|-|-|
+Lyanna Mormont|Mormont|0|-|-|Wun Wun|
+Loras Tyrell|Tyrell|0|Mace Tyrell|Margaery Tyrell|-|
+Lothar Frey|Frey|0|Walder Frey|-|Talisa Maegyr|
+Lyanna Stark|Stark|0|Rickard Stark|Eddard Stark,Benjen Stark,Brandon Stark|-|
+Lysa Arryn|Arryn|0|Hoster Tully|Edmure Tully,Catelyn Tully|Jon Arryn|
+Mace Tyrell|Tyrell|0|-|-|-|
+Mag the Mighty|?|0|-|-|Cooper,Donnel Hill,Grenn|
+Margaery Tyrell|Tyrell|0|Mace Tyrell|Loras Tyrell|-|
+Martyn Lannister|Lannister|0|Kevan Lannister|Willem Lannister,Lancel Lannister|-|
+Robin Arryn|?|0|Lysa Arryn,Jon Arryn|-|-|
+Othell Yarwyck|?|0|-|-|Jon Snow|
+Osha|?|0|-|-|Maester Luwin,Drennan|
+Mossador|?|0|-|-|Son of the Harpy|
+Meera Reed|?|0|Howland Reed|-|White Walker,Jojen Reed|
+Mirri Maz Duur|?|0|-|-|Rhaego|
+Melisandre|?|0|-|-|Shireen Baratheon,Mance Rayder,Axell Florent,Renly Baratheon|
+Meryn Trant|?|0|-|-|Syrio Forel|
+Nymeria|Stark|0|-|Ghost,Shaggydog,Summer,Lady,Grey Wind|-|
+Myrcella Baratheon|Baratheon|1|Jaime Lannister,Cersei Lannister,Robert Baratheon|Tommen Baratheon,Joffrey Baratheon|-|
+Ned Umber|Umber|0|-|-|-|
+Nymeria Sand|Martell|0|Oberyn Martell|-|-|
+Obara Sand|Martell|0|Oberyn Martell|-|Trystane Martell,Merchant Captain|
+Oberyn Martell|Martell|0|-|Elia Martell,Doran Martell|-|
+Olenna Tyrell|Tyrell|0|-|-|Joffrey Baratheon|
+Olly|?|0|-|-|Jon Snow,Ygritte|
+Petyr Baelish|?|0|-|-|Lysa Arryn,Dontos Hollard,Joffrey Baratheon|
+Rickon Stark|Stark|0|Catelyn Stark,Eddard Stark|Bran Stark,Arya Stark,Sansa Stark,Robb Stark|-|
+Rhaego|?|0|Daenerys Targaryen,Khal Drogo|-|-|
+Rhaegal|Targaryen|0|-|Viserion,Drogon|Great Master #1,Pyat Pree|
+Pyat Pree|?|0|-|-|Silk King,Spice King|
+Polliver|?|0|-|-|Lommy Greenhands|
+Podrick Payne|?|0|-|-|Bolton Soldier,Mandon Moore|
+Rast|?|0|-|-|Jeor Mormont|
+Ramsay Snow|Bolton|0|Roose Bolton|-|Wun Wun,Rickon Stark,Osha,Roose Bolton,Old Woman,Unidentified Cerwyn,Lady Cerwyn,Medger Cerwyn,Master Torturer|
+Renly Baratheon|Baratheon|0|-|Stannis Baratheon,Robert Baratheon|-|
+Rhaegar Targaryen|Targaryen|1|Aerys II Targaryen,Rhaella Targaryen|Viserys Targaryen,Daenerys Targaryen|-|
+Rickard Stark|Stark|0|-|-|-|
+Rhaella Targaryen|Targaryen|1|-|Aerys II Targaryen|-|
+Rickard Karstark|?|0|-|-|Willem Lannister,Martyn Lannister|
+Rhaenys Targaryen|Targaryen|1|Rhaegar Targaryen,Elia Martell|Jon Snow,Aegon Targaryen|-|
+Robb Stark|Stark|1|Catelyn Stark,Eddard Stark|Rickon Stark,Bran Stark,Arya Stark,Sansa Stark|Rickard Karstark,Wallen|
+Robert Baratheon|Baratheon|1|-|Renly Baratheon,Stannis Baratheon|Rhaegar Targaryen|
+Styr|?|0|-|-|Olly's Mother|
+Shaggydog|Stark|0|-|Ghost,Summer,Nymeria,Lady,Grey Wind|-|
+Selyse Baratheon|Baratheon|0|-|-|Selyse Baratheon|
+Ryger Rivers|?|0|Walder Frey|-|-|
+Roose Bolton|Bolton|0|-|-|Robb Stark|
+Roslin Frey|Frey|0|Walder Frey|-|-|
+Samwell Tarly|?|0|Melessa Tarly,Randyll Tarly|Talla Tarly,Dickon Tarly|Thenn Warg,White Walker|
+Sandor Clegane|?|0|-|Gregor Clegane|Sandor Clegane,Gregor Clegane,Lem Lemoncloak,Morgan,Gatins,Riddell,Steve,Biter,Dying Man,Lowell,Frey Soldier #2,Beric Dondarrion,Kings Landing Rioter #3,Kings Landing Rioter #2,Kings Landing Rioter #1,Mycah|
+Sansa Stark|Stark|1|Catelyn Stark,Eddard Stark|Rickon Stark,Bran Stark,Arya Stark,Robb Stark|-|
+Shireen Baratheon|Baratheon|0|Selyse Baratheon,Stannis Baratheon|-|-|
+Stannis Baratheon|Baratheon|0|-|Renly Baratheon,Robert Baratheon|Simpson,Gordy|
+Smalljon Umber|?|0|Greatjon Umber|-|Shaggydog|
+Stevron Frey|Frey|0|-|-|-|
+Tyrion Lannister|Lannister|0|Tywin Lannister|Jaime Lannister,Cersei Lannister|Tywin Lannister,Shae|
+Trystane Martell|Martell|0|Doran Martell|-|-|
+Tommen Baratheon|Baratheon|1|Jaime Lannister,Cersei Lannister,Robert Baratheon|Myrcella Baratheon,Joffrey Baratheon|Tommen Baratheon|
+Summer|Stark|0|-|Ghost,Shaggydog,Nymeria,Lady,Grey Wind|Catspaw Assassin|
+Theon Greyjoy|Greyjoy|0|Balon Greyjoy|Yara Greyjoy|Harrag,Bolton Soldier,Myranda,Rodrik Cassel,Stiv|
+The Night King|?|0|-|-|Theon Greyjoy,Ned Umber,Viserion,Three-Eyed Raven|
+Talla Tarly|Tarly|0|Melessa Tarly,Randyll Tarly|Samwell Tarly,Dickon Tarly|-|
+The Tickler|?|0|-|-|Tortured Prisoner|
+The Waif|?|0|-|-|Lady Crane|
+Tormund Giantsbane|?|0|-|-|Smalljon Umber,Rattleshirt|
+Tyene Sand|Martell|0|Ellaria Sand,Oberyn Martell|-|Maester Caleotte,Areo Hotah|
+Yara Greyjoy|Greyjoy|0|Balon Greyjoy|Theon Greyjoy|-|
+White Walker|?|0|-|-|Loboda|
+Viserion|Targaryen|0|-|Rhaegal,Drogon|Great Master #1,Pyat Pree|
+Tywin Lannister|Lannister|0|-|-|-|
+Walda Bolton|Bolton|0|-|-|-|
+Viserys Targaryen|Targaryen|1|Aerys II Targaryen,Rhaella Targaryen|Rhaegar Targaryen,Daenerys Targaryen|-|
+Waymar Royce|?|0|Yohn Royce|-|-|
+Walder Frey|Frey|0|-|-|-|
+Willem Lannister|Lannister|0|Kevan Lannister|Martyn Lannister,Lancel Lannister|-|
+Wun Wun|?|0|-|-|Lyanna Mormont|
+Ygritte|?|0|-|-|Pypar,Mole's Town Whore,Guymon,Old Man|
