@@ -66,7 +66,7 @@ create table miembro(
 	salud varchar(40) not null default 'Sano',
 	idGrupo int not null,
 	esLider boolean not null default false,
-	clave varchar(40),
+	clave varchar(80), --Se guarda hasheada por eso es necesario tener un tamaño grande
 	primary key (dni, idGrupo),
 	FOREIGN KEY (idGrupo) REFERENCES grupoArmado(id) ON DELETE cascade on update cascade
 );
